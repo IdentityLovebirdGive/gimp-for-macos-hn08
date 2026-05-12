@@ -1,4 +1,4 @@
-# 
+# Enhance Gimp for macOS with exclusive Plugin for Gimp for macOS - custom brushes and real-time preview, the #1 plugin. Includes custom brushes and real-time preview for a smoother
 
 
 
